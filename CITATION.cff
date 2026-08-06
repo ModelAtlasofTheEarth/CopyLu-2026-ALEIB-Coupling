@@ -1,1 +1,15 @@
-
+cff-version: 1.2.0
+message: If you use this model, please cite it as below.
+authors:
+- family-names: Lu
+  given-names: Neng
+  orcid: https://orcid.org/0000-0001-9424-2315
+title: A novel ALE scheme with the internal boundary for coupling tectonic and surface
+  processes in geodynamic models
+version: ''
+doi: https://doi.org/10.25914/x7h8-4a33
+date-released: '2026-08-06'
+url:
+- https://mate.science/models/CopyLu-2026-ALEIB-Coupling/
+- https://github.com/ModelAtlasofTheEarth/CopyLu-2026-ALEIB-Coupling/
+type: dataset
